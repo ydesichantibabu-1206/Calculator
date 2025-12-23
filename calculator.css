@@ -10,7 +10,7 @@ button{
     border: 3px solid black;
     width: 24%;
     padding: 10px;
-    height: 60%;
+    height: 65%;
     padding-left: 30px;
     animation: glow 2s infinite alternate;
     background-color: #434343;
@@ -66,5 +66,6 @@ button:active{
             background-position: 0% 50%;
         }
     }
+
 
 
