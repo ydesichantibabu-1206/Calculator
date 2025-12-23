@@ -1,5 +1,6 @@
+
 button{
-    width:70px;
+    width:107px;
     height:50px;
     margin-right: 11px;
     margin-top: 10px;
@@ -7,10 +8,10 @@ button{
 }
 #main{
     border: 3px solid black;
-    width: 24%;
+    width: 35%;
     padding: 10px;
     height: 60%;
-    padding-left: 30px;
+    padding-left: 25px;
     animation: glow 2s infinite alternate;
     background-color: #434343;
 }
@@ -65,3 +66,4 @@ button:active{
             background-position: 0% 50%;
         }
     }
+
